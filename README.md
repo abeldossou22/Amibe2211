@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abel DOSSOU. 
-- 👀 I’m interested in Softiware
+- 👀 I’m interested about Software
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on React Project
 - 📫 How to reach me ...
